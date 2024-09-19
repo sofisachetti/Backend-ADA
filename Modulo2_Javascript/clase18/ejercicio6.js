@@ -1,0 +1,1 @@
+let entrada = "Toyota, Honda, Ford, Chevrolet, Nissan";

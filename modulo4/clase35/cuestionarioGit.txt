@@ -1,0 +1,32 @@
+1. ¿Alguna vez usaste algún sistema de control de versionado? ¿Para qué?. ¿Tuviste experiencia previa con Git?
+
+Si, para subir los trabajos y modificaciones de los archivos. Sirve para usar de forma colaborativa y trabajar en grupo.
+Por experiencia de muchas, es muy importante practicar los comandos básicos y aprender nuevos.
+
+2. ¿Qué tan experto te consideras del 1 al 10?
+
+Un 6. Para usar lo básico genial pero hay muchos comandos para aprender.
+
+3. ¿Crees que el uso de GIT mejore tu experiencia trabajando en programación a comparación de como venias trabajando hasta ahora (con figma)?
+
+Totalmente, más trabajando en grupo. Mucho más dinámico.
+
+4. Git es...
+o un software.      o una forma ágil de trabajar.       o un conjunto de reglas para trabajar en equipo.
+
+Git es un software de control de versiones. PERO permite trabajar de forma ágil y en equipo siguiendo reglas. 
+
+5. Un commit tiene...
+o fecha y mensaje       o fecha, autor y computadora        o fecha, autor y mensaje
+
+Un commit tiene fecha, autor y mensaje.
+
+6. Seleccionar el orden correcto para persistir los cambios de productos.js.
+o git add productos.js —> se modifica el archivo —> git commit-m "Carrito agregado"
+o git add productos.js —> se modifica el archivo —> git add productos.js —> git commit -m "Carrito agregado"
+
+La segunda. Luego que se modifica hay que agregar el archivo nuevamente y despues commit.
+
+7. ¿Git permite mantener un historial de cómo fue cambiando el proyecto?
+
+Si, es su principal funcionalidad.
