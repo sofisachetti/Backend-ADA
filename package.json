@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "express": "^4.21.2",
     "lodash": "^4.17.21",
     "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10",
