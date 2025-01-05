@@ -1,0 +1,29 @@
+{
+  "info": {
+    "name": "Quotes Database",
+    "version": "1.0.0",
+    "total": 4
+  },
+  "quotes": [
+    {
+      "id": "1",
+      "text": "Persigue tus metas jaja",
+      "author": "Henry Ford"
+    },
+    {
+      "id": "1",
+      "text": "Lindo dia para estar codeando",
+      "author": "Anonimo"
+    },
+    {
+      "text": "El fracaso es la oportunidad de comenzar de nuevo con más inteligencia.",
+      "author": "Henry Ford",
+      "id": "3"
+    },
+    {
+      "text": "El fracaso es la oportunidad de comenzar de nuevo con más inteligencia.",
+      "author": "Henry Ford",
+      "id": "4"
+    }
+  ]
+}
